@@ -33,5 +33,3 @@
 ![Задание2](https://github.com/SSitkarev/02_GIT_Tools/blob/main/img/7.jpg)
 
 #### В качестве решения ответьте на вопросы и опишите, как были получены эти ответы.*
-
-![Задание2](https://github.com/SSitkarev/02_GIT_Tools/blob/main/img/8.jpg)
